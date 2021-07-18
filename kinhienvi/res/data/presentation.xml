@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<presentation title="Bai1" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{3DE9236C-2AFD-46A7-919E-5687AD04249C}">
+	<presenters>
+		<presenter name="Hồ Hải Sơn" title="GV Sinh Học" email="hohaison310@gmail.com" web="https://www.facebook.com/buom.gjangho" phone="01223479103" photoAssetId="imgAsset0">
+			<bio>Giáo viên giảng dạy sinh học tại trường THCS Tây Sơn. 
+Học Viên cao học sinh thái tại trường đại học sư phạm Đà Nẵng.
+- - -
+Status: Graduate student (Ecological Master)
+Workplace: Tay Son secondary school (Da Nang city, Viet Nam)</bio>
+		</presenter>
+		<presenter name="Hồ Thị Ngọc Diệp" title="Giáo viên sinh học" email="" web="" phone="" photoAssetId="imgAsset1">
+			<bio/>
+		</presenter>
+		<presenter name="Hồ Thị Xuân Hiền" title="Giáo viên sinh học" email="" web="" phone="" photoAssetId="imgAsset2">
+			<bio/>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="111013" duration="9247"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="175588" duration="14629"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="73397" duration="6113"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="136718" duration="11389"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="108192" duration="9012"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="65560" duration="5460"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="130135" duration="10841"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="72456" duration="6034"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="229818" duration="19148"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="150510" duration="12539"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="221354" duration="18442"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="161168" duration="13427"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="263673" duration="21969"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="128567" duration="10710"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="255209" duration="21264"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="120104" duration="10005"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="148943" duration="12408"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="58037" duration="4833"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="114148" duration="9509"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="25559085" duration="2129920"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="20775856" duration="1731318"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="2534758" duration="211226"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="photo1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="photo2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="photo3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb25.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists>
+		<playlist looping="1">
+			<sound soundAssetId="sndAsset19"/>
+			<sound soundAssetId="sndAsset20"/>
+			<sound soundAssetId="sndAsset21"/>
+		</playlist>
+	</playlists>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="9.2010000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="14.5930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="6.0840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="11.3530000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="8.9690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="5.4180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="7.7110000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="6.0050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="19.0970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="12.4990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="18.4010000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="13.3920000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="21.9360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="10.6780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="21.2329998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="9.9680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="12.3690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="1.8190000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="9.4799995"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="MỞ ĐẦU" titleNormalized="mở đầu" src="slide1.swf" size="971654" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset3" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.2000002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SỞ GIÁO DỤC VÀ ĐÀO TẠO THÀNH PHỐ ĐÀ NẴNG
+ỦY BAN NHÂN DÂN QUẬN THANH KHÊ
+TRƯỜNG THPT NGUYỄN ĐÌNH CHIỂU
+THIẾT KẾ BÀI GIẢNG E-LEARNING 
+NĂM HỌC 2018-2019 
+MÔN: SINH HỌC 6
+Chủ đề: 
+Thế giới dưới 
+kính hiển vi
+KÍNH LÚP, KÍNH HIỂN VI VÀ CÁCH SỬ DỤNG
+Giáo viên: Hồ Thị Xuân Hiền
+Email: xuanhien0202@gmail.com</text>
+		</slide>
+		<slide index="1" title="MỤC TIÊU BÀI HỌC" titleNormalized="mục tiêu bài học" src="slide2.swf" size="105268" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset4" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.3490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>MỤC TIÊU BÀI HỌC</text>
+		</slide>
+		<slide index="2" title="NỘI DUNG BÀI HỌC" titleNormalized="nội dung bài học" src="slide3.swf" size="110998" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset5" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.0830001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>I. KÍNH LÚP VÀ CÁCH SỬ DỤNG
+II. KÍNH HIỂN VI VÀ CÁCH SỬ DỤNG
+ĐỀ CƯƠNG BÀI HỌC</text>
+		</slide>
+		<slide index="3" title="KÍNH LÚP VÀ CÁCH SỬ DỤNG" titleNormalized="kính lúp và cách sử dụng" src="slide4.swf" size="94710" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset6" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.8090004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>KÍNH LÚP VÀ CÁCH SỬ DỤNG</text>
+		</slide>
+		<slide index="4" title="CẤU TẠO KÍNH LÚP" titleNormalized="cấu tạo kính lúp" src="slide5.swf" size="59278" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset7" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.4889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CẤU TẠO KÍNH LÚP
+Tay cầm
+Tấm kính
+Kim loại</text>
+		</slide>
+		<slide index="5" title="CẤU TẠO KÍNH LÚP" titleNormalized="cấu tạo kính lúp" src="slide6.swf" size="43139" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset8" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.6690001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="6" title="CẤU TẠO KÍNH LÚP" titleNormalized="cấu tạo kính lúp" src="slide7.swf" size="323495" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset9" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.0919999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tấm kính trong là một thấu kính hội tụ</text>
+		</slide>
+		<slide index="7" title="CẤU TẠO KÍNH LÚP" titleNormalized="cấu tạo kính lúp" src="slide8.swf" size="98622" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset10" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7100000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CẤU TẠO KÍNH LÚP</text>
+		</slide>
+		<slide index="8" title="CÁCH SỬ DỤNG KÍNH LÚP" titleNormalized="cách sử dụng kính lúp" src="slide9.swf" size="1915094" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset11" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.0090002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CÁCH SỬ DỤNG KÍNH LÚP</text>
+		</slide>
+		<quiz index="9" title="BÀI TẬP CÁCH SỬ DỤNG KÍNH LÚP" titleNormalized="bài tập cách sử dụng kính lúp" src="quiz1.swf" size="1974241" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" bgPlaylistIndex="0" thumbnailAssetId="imgAsset12" presenterIndex="2" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.9390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="10" title="CÁCH SỬ DỤNG KÍNH LÚP" titleNormalized="cách sử dụng kính lúp" src="slide11.swf" size="75537" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset13" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.0990004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CÁCH SỬ DỤNG KÍNH LÚP</text>
+		</slide>
+		<slide index="11" title="KÍNH HIỂN VI" titleNormalized="kính hiển vi" src="slide12.swf" size="252824" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset14" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.3689999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="12" title="VIDEO VỀ LỊCH SỬ HÌNH THÀNH KÍNH HIỂN VI" titleNormalized="video về lịch sử hình thành kính hiển vi" src="slide13.swf" size="334044" advanceOnTime="1" framesCount="1448" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset15" presenterIndex="2">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1ab8c898c50.spr0_179425250" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ab8c898c50.spr2_179425250" playFullScreen="1" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1447" playTime="60.2916667" pauseTime="0.0183347"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="13" title="LỊCH SỬ KÍNH HIỂN VI" titleNormalized="lịch sử kính hiển vi" src="slide14.swf" size="79805" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset16" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4689993"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>LỊCH SỬ KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="14" title="LỊCH SỬ KÍNH HIỂN VI" titleNormalized="lịch sử kính hiển vi" src="slide15.swf" size="92458" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset17" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>LỊCH SỬ KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="15" title="LỊCH SỬ KÍNH HIỂN VI" titleNormalized="lịch sử kính hiển vi" src="slide16.swf" size="79208" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset18" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.0390009"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>LỊCH SỬ KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="16" title="CẤU TẠO KÍNH HIỂN VI" titleNormalized="cấu tạo kính hiển vi" src="slide17.swf" size="62403" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset19" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.7190003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CẤU TẠO KÍNH HIỂN VI</text>
+		</slide>
+		<quiz index="17" title="BÀI TẬP VỀ CẤU TẠO KÍNH HIỂN VI" titleNormalized="bài tập về cấu tạo kính hiển vi" src="quiz2.swf" size="1888216" advanceOnTime="1" framesCount="1448" hasEmbeddedFlashClip="0" hidden="0" level="0" bgPlaylistIndex="0" thumbnailAssetId="imgAsset20" presenterIndex="2" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="1447" playTime="60.2916667" pauseTime="0.0183347"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="18" title="CẤU TẠO KÍNH HIỂN VI" titleNormalized="cấu tạo kính hiển vi" src="slide19.swf" size="144926" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset21" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.2319998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CẤU TẠO KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="19" title="SỬ DỤNG KÍNH HIỂN VI" titleNormalized="sử dụng kính hiển vi" src="slide20.swf" size="38351" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset22" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3090004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SỬ DỤNG KÍNH HIỂN VI</text>
+		</slide>
+		<quiz index="20" title="BÀI TẬP VỀ SỬ DỤNG KÍNH HIỂN VI" titleNormalized="bài tập về sử dụng kính hiển vi" src="quiz3.swf" size="1757020" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" bgPlaylistIndex="0" thumbnailAssetId="imgAsset23" presenterIndex="2" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="21" title="SỬ DỤNG KÍNH HIỂN VI" titleNormalized="sử dụng kính hiển vi" src="slide22.swf" size="60065" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset24" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3889994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SỬ DỤNG KÍNH HIỂN VI</text>
+		</slide>
+		<slide index="22" title="CỦNG CỐ" titleNormalized="củng cố" src="slide23.swf" size="253920" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset25" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.9690000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<quiz index="23" title="CỦNG CỐ" titleNormalized="củng cố" src="quiz4.swf" size="1954454" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" bgPlaylistIndex="0" thumbnailAssetId="imgAsset26" presenterIndex="2" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.8190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="24" title="LỜI TẠM BIỆT" titleNormalized="lời tạm biệt" src="slide25.swf" size="98781" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" bgPlaylistIndex="0" thumbnailAssetId="imgAsset27" presenterIndex="2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.4789995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+	</slides>
+</presentation>
