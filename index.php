@@ -1,1 +1,0 @@
-<?php include_once(“tienganh (Published)/index.html”); ?>
